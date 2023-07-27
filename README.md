@@ -10,24 +10,28 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 Primera parte de la página web:
 
-![image](https://github.com/DanielaMendozaG/Portafolio/assets/140553990/f4a73b05-ee35-4d28-bebc-074ce9431450)
+![image](https://github.com/DanielaMendozaG/Portafolio/assets/140553990/3c49e3a0-6075-4eab-8863-025052951c8e)
 
 
 Experiencia:
 
-![Experiencia](imagenes/screenshot2.png)
+![image](https://github.com/DanielaMendozaG/Portafolio/assets/140553990/7ddb0582-5617-48d1-985a-7d1f99941e18)
+
 
 Proyectos:
 
-![Proyectos](imagenes/screenshot3.png)
+![image](https://github.com/DanielaMendozaG/Portafolio/assets/140553990/9e963872-2e31-4e22-adb6-89db6ef7cd49)
+
 
 Testimonios:
 
-![Testimonios](imagenes/screenshot4.png)
+![image](https://github.com/DanielaMendozaG/Portafolio/assets/140553990/c5a70c25-b2c0-45fe-a0ec-3cca6e14dd0c)
+
 
 Contacto:
 
-![Contacto](imagenes/screenshot5.png)
+![image](https://github.com/DanielaMendozaG/Portafolio/assets/140553990/5f1ee1a5-fd3c-4988-acb6-8c66780787e3)
+
 
 ## Tecnologías
 
